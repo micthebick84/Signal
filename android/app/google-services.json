@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "240103514212",
+    "firebase_url": "https://signal-ab787.firebaseio.com",
+    "project_id": "signal-ab787",
+    "storage_bucket": "signal-ab787.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240103514212:android:176aa6cbe12d1500a43f71",
+        "android_client_info": {
+          "package_name": "com.micthebick.signal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "240103514212-0lc85ppv7hcu9nor5vsaq8qt3vbjpe13.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2oPNQMerzfBuU6LxUuyvmTlo6HWirQT8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "240103514212-0lc85ppv7hcu9nor5vsaq8qt3vbjpe13.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
